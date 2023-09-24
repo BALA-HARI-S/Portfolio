@@ -396,6 +396,10 @@ body {
   justify-content: space-around;
   font-size: 50px;
 }
+.skill-emts > a > i,
+.skill-emts > a {
+  font-size: 50px;
+}
 
 /* Contact */
 
